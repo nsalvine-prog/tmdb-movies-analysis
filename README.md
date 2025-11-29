@@ -1,4 +1,4 @@
-# Investigate-a-Dataset--TMDB-Movies-Dataset.
+# Examinine- TMDB-Movies-Dataset.
  ## Indroduction
 This is my first data analyst project at Udacity. I used real world data to investigate if there is an effect between voting average and revenue adjusted. To find out how many movies project were relaesed by the  company. Finally, if the popularity of movies have an impact on the adjusted revenue. 
 
